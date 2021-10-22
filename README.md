@@ -1,14 +1,15 @@
 ### Hi there, I'm Michael Duisenberg 👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${MrDuise}.${your.repo.id})
 
+- I'm profecient in: HTML, C#, Java, PHP, MySQL
+- 🌱 I’m currently learning: JavaScript, Markdown, Python, CSS
 <!--
 **MrDuise/MrDuise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- I'm profecient in: HTML, C#, Java, PHP, MySQL
-- 🌱 I’m currently learning: JavaScript, Markdown, Python, CSS
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
