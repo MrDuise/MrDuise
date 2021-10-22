@@ -1,6 +1,11 @@
 ### Hi there, I'm Michael Duisenberg 👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${MrDuise}.${your.repo.id})
+## Glad to have you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${MrDuise}.${your.repo.id})
 
+I am a full-time software develement student with the goal of being a full-stack software engineer. 
+
+I love puzzles. Attention to detail and not stopping until I've solved the problem have served me well.
+
+#Talking about Personal Stuff:
 - I'm profecient in: HTML, C#, Java, PHP, MySQL
 - 🌱 I’m currently learning: JavaScript, Markdown, Python, CSS
 <!--
