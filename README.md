@@ -1,5 +1,5 @@
 ### Hi there, I'm Michael Duisenberg 👋
-## Glad to have you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${MrDuise}.${your.repo.id})
+## Glad to have you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=MrDuise.MrDuise)
 
 I am a full-time software develement student with the goal of being a full-stack software engineer. 
 
