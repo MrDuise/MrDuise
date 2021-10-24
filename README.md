@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-PHP          9 mins          ████████████████████▒░░░░   81.85 % 
-JavaScript   2 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.04 % 
+PHP          13 mins         █████████████████████▒░░░   84.90 % 
+JavaScript   2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.74 % 
 ```
 <!--END_SECTION:waka-->
