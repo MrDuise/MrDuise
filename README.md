@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-PHP    3 hrs 29 mins   ████████████████████▓░░░░   82.61 % 
-CSS    43 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.33 % 
+PHP          6 hrs 16 mins   ████████████████████▓░░░░   82.37 % 
+CSS          43 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+HTML         35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
 ```
 <!--END_SECTION:waka-->
