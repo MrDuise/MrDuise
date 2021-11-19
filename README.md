@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-PHP          5 hrs 37 mins   ████████████████▓░░░░░░░░   66.02 % 
-HTML         2 hrs 23 mins   ███████░░░░░░░░░░░░░░░░░░   28.07 % 
-CSS          25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-JavaScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+PHP          4 hrs 58 mins   ███████████████▓░░░░░░░░░   63.13 % 
+HTML         2 hrs 23 mins   ███████▓░░░░░░░░░░░░░░░░░   30.37 % 
+CSS          25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+JavaScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
 <!--END_SECTION:waka-->
