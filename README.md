@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-HTML   57 mins         ███████████████▓░░░░░░░░░   63.06 % 
-CSS    33 mins         █████████▒░░░░░░░░░░░░░░░   36.94 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
