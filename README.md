@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Pug          14 mins         ██████████████▓░░░░░░░░░░   58.09 % 
+JavaScript   6 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.31 % 
+JSON         3 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
 ```
 <!--END_SECTION:waka-->
