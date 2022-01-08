@@ -29,9 +29,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-JSON         39 mins         ████████████▒░░░░░░░░░░░░   49.38 % 
-JavaScript   24 mins         ███████▓░░░░░░░░░░░░░░░░░   30.48 % 
-Pug          14 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.27 % 
-Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+JavaScript   2 hrs 20 mins   ████████████████▒░░░░░░░░   65.62 % 
+JSON         53 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.21 % 
+Pug          14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+HTML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 ```
 <!--END_SECTION:waka-->
