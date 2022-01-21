@@ -9,6 +9,7 @@ I love puzzles. Attention to detail and not stopping until I've solved the probl
 - ✨ I'm profecient in: HTML, C#, Java, PHP, MySQL
 - 🌱 I’m currently learning: JavaScript, Markdown, Python, CSS
 - 📫 How to reach me: mrduise@gmail.com
+- ⚡ My personal website: michaelsworld.tech
 <!--
 **MrDuise/MrDuise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
