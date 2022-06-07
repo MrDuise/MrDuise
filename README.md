@@ -1,5 +1,5 @@
 Hi 👋 My name is Michael Duisenberg
-
+## Glad to have you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=MrDuise.MrDuise)
 ===================================
 
 Software Engineer
