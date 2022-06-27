@@ -54,10 +54,9 @@ seeking an opportunity with a company where I can continue to learn, be challeng
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   12 hrs 12 mins  ████████████████████████▓   98.75 %
-JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+JavaScript   9 hrs 7 mins    ████████████████████████▓   98.49 %
+JSON         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
