@@ -54,10 +54,11 @@ seeking an opportunity with a company where I can continue to learn, be challeng
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   2 hrs 12 mins   ██████████████████████▓░░   91.11 %
-JSON         8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
-Bash         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
-Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+JavaScript   1 hr 59 mins    ██████████████████████▒░░   89.93 %
+JSON         6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+Bash         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+EJS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
