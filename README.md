@@ -56,13 +56,13 @@ seeking an opportunity with a company where I can continue to learn, be challeng
 ```text
 From: 21 October 2021 - To: 15 August 2022
 
-Total Time: 307 hrs 13 mins
+Total Time: 307 hrs 30 mins
 
-JavaScript   185 hrs 11 mins >>>>>>>>>>>>>------------   53.82 %
-PHP          31 hrs 1 min    >>-----------------------   09.02 %
-TypeScript   30 hrs 53 mins  >>-----------------------   08.98 %
-HTML         30 hrs 41 mins  >>-----------------------   08.92 %
-CSS          29 hrs 38 mins  >>-----------------------   08.62 %
+JavaScript   185 hrs 27 mins >>>>>>>>>>>>>------------   53.85 %
+PHP          31 hrs 1 min    >>-----------------------   09.01 %
+TypeScript   30 hrs 53 mins  >>-----------------------   08.97 %
+HTML         30 hrs 41 mins  >>-----------------------   08.91 %
+CSS          29 hrs 38 mins  >>-----------------------   08.61 %
 JSON         14 hrs 24 mins  >------------------------   04.19 %
 ```
 
