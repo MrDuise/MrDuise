@@ -9,7 +9,6 @@ A mission-oriented individual with a fierce drive for knowledge and learning. I�
 seeking an opportunity with a company where I can continue to learn, be challenged, and grow as a software engineer.
 
 * 🌍  I'm based in United States
-* 🖥️  See my portfolio at [Michaelsworld.tech](http://michaelsworld.tech)
 * ✉️  You can contact me at [mrduise@gmail.com](mailto:mrduise@gmail.com)
 
 ### Skills
