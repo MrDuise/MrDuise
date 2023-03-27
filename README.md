@@ -53,7 +53,7 @@ seeking an opportunity with a company where I can continue to learn, be challeng
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 October 2021 - To: 25 March 2023
+From: 21 October 2021 - To: 26 March 2023
 
 Total Time: 433 hrs 23 mins
 
