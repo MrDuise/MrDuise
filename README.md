@@ -53,7 +53,7 @@ seeking an opportunity with a company where I can continue to learn, be challeng
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 October 2021 - To: 17 February 2024
+From: 21 October 2021 - To: 18 February 2024
 
 Total Time: 628 hrs 57 mins
 
