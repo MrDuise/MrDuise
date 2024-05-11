@@ -53,15 +53,15 @@ seeking an opportunity with a company where I can continue to learn, be challeng
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 October 2021 - To: 09 May 2024
+From: 21 October 2021 - To: 10 May 2024
 
-Total Time: 808 hrs 32 mins
+Total Time: 815 hrs 6 mins
 
-JavaScript        313 hrs 6 mins  >>>>>>>>>>---------------   38.72 %
-Java              236 hrs 30 mins >>>>>>>------------------   29.25 %
-TypeScript        35 hrs 31 mins  >------------------------   04.39 %
-JSON              32 hrs 49 mins  >------------------------   04.06 %
-HTML              27 hrs 50 mins  >------------------------   03.44 %
+JavaScript        313 hrs 6 mins  >>>>>>>>>>---------------   38.41 %
+Java              240 hrs 1 min   >>>>>>>------------------   29.45 %
+TypeScript        35 hrs 31 mins  >------------------------   04.36 %
+JSON              33 hrs 5 mins   >------------------------   04.06 %
+HTML              27 hrs 50 mins  >------------------------   03.41 %
 ```
 
 <!--END_SECTION:waka-->
