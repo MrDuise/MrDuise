@@ -1,12 +1,11 @@
 Hi 👋 My name is Michael Duisenberg
-## Glad to have you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=MrDuise.MrDuise)
+## Glad to have you here!
 ===================================
 
 Software Engineer
 -----------------
 
-A mission-oriented individual with a fierce drive for knowledge and learning. I’m currently a 4th year student at GCU 
-seeking an opportunity with a company where I can continue to learn, be challenged, and grow as a software engineer.
+Results-driven software engineer with expertise in testing tools, scalable architectures, and automation. Proficient in Docker, Selenium, GitLab, Java, and Spring Boot. Proven track record of enhancing development efficiency and delivering quality results. Seeking innovative projects to further develop skills in a dynamic environment.
 
 * 🌍  I'm based in United States
 * ✉️  You can contact me at [mrduise@gmail.com](mailto:mrduise@gmail.com)
