@@ -52,7 +52,7 @@ Results-driven software engineer with expertise in testing tools, scalable archi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 October 2021 - To: 12 February 2025
+From: 21 October 2021 - To: 13 February 2025
 
 Total Time: 1,418 hrs 1 min
 
