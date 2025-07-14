@@ -41,15 +41,15 @@ Results-driven software engineer with expertise in testing tools, scalable archi
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 October 2021 - To: 11 July 2025
+From: 21 October 2021 - To: 12 July 2025
 
-Total Time: 1,508 hrs 14 mins
+Total Time: 1,511 hrs 39 mins
 
-Java              458 hrs 36 mins >>>>>>>>-----------------   30.41 %
-JavaScript        420 hrs 49 mins >>>>>>>------------------   27.90 %
-TypeScript        110 hrs 54 mins >>-----------------------   07.35 %
-Gherkin           73 hrs 45 mins  >------------------------   04.89 %
-JSON              67 hrs 42 mins  >------------------------   04.49 %
+Java              458 hrs 36 mins >>>>>>>>-----------------   30.34 %
+JavaScript        420 hrs 49 mins >>>>>>>------------------   27.84 %
+TypeScript        114 hrs 12 mins >>-----------------------   07.56 %
+Gherkin           73 hrs 45 mins  >------------------------   04.88 %
+JSON              67 hrs 42 mins  >------------------------   04.48 %
 ```
 
 <!--END_SECTION:waka-->
